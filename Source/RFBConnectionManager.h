@@ -17,6 +17,8 @@
  */
 
 #import <AppKit/AppKit.h>
+#import "ServerDataViewController.h"
+
 @class Profile, ProfileManager;
 @class ServerDataViewController;
 @protocol ConnectionDelegate, IServerData;
